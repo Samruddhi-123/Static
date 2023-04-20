@@ -1,0 +1,997 @@
+.aditional-links2 {
+  position: absolute;
+  top: 740px;
+  left: 14px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkblue);
+  text-align: center;
+  display: inline-block;
+  width: 187px;
+  height: 29px;
+  text-decoration: none;
+}
+.hemo-b-child,
+.hemo-b-item {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-lgi);
+}
+.hemo-b-child {
+  left: 225px;
+  background-color: var(--color-whitesmoke-100);
+  width: 969px;
+  height: 58px;
+}
+.hemo-b-item {
+  left: 0;
+  width: 230px;
+  height: 214px;
+  object-fit: cover;
+}
+.frame-child10 {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 28px;
+  left: -4px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.in-100000,
+.prevalence-global2 {
+  position: absolute;
+  font-weight: 600;
+}
+.prevalence-global2 {
+  top: 10px;
+  left: 8px;
+  display: inline-block;
+  width: 269px;
+  height: 30px;
+}
+.in-100000 {
+  top: 72px;
+  left: 53px;
+  font-size: var(--font-size-13xl);;
+  text-align: center;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 72px;
+  left: 499px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-child11 {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 24px;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.in-1000001 {
+  position: absolute;
+  top: 69px;
+  left: 21px;
+  font-size: var(--font-size-13xl);;
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 178px;
+  text-decoration: none;
+}
+.frame-parent6 {
+  position: absolute;
+  top: 72px;
+  left: 255px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-child12 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 37px;
+  left: -11px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.cytogenetic-location2 {
+  position: absolute;
+  top: 17px;
+  left: -8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 282px;
+  height: 31px;
+}
+.x {
+  margin: 0;
+}
+.chromosome-x {
+  position: absolute;
+  top: 76px;
+  left: -23px;
+  font-size: var(--font-size-13xl);;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  width: 245px;
+}
+.frame-parent7 {
+  position: absolute;
+  top: 72px;
+  left: 978px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-child13 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 20px;
+  left: 6px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.f9,
+.genes2 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 600;
+}
+.genes2 {
+  top: 18px;
+  left: 77px;
+  width: 233px;
+  height: 30px;
+}
+.f9 {
+  top: 89px;
+  left: 21px;
+  font-size: var(--font-size-13xl);
+  font-style: italic;
+  color: inherit;
+  text-align: center;
+  width: 192px;
+  text-decoration: none;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 72px;
+  left: 723px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.hemo-b-inner {
+  position: absolute;
+  top: 261px;
+  left: 254px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 935px;
+  height: 520px;
+}
+.methods {
+  position: absolute;
+  top: 673px;
+  left: 980px;
+  text-align: center;
+  display: inline-block;
+  width: 75px;
+  height: 29px;
+}
+.hemo-a-child1 {
+  position: absolute;
+  top: 665px;
+  left: 948px;
+  display: inline-block;
+  width: 150px;
+  height: 43px;
+  border-radius: var(--br-lgi);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inherit);
+  font-weight: 400;
+}
+.current-therapeutics2,
+.science-of-diagnosis2 {
+  position: absolute;
+  top: 624px;
+  left: 901px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics2 {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.hemo-b-child1 {
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.image-12 {
+  text-decoration: none;
+  position: absolute;
+  top: 62px;
+  left: 20px;
+  width: 184px;
+  height: 90px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.age-of-onset2 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.age-of-onset-container2 {
+  position: absolute;
+  top: 795px;
+  left: 279px;
+ 
+  display: inline-block;
+  width: 588px;
+  height: 29px;
+  font-size: var(--font-size-base);
+}
+.clinical-symptoms2,
+.current-diagnostics2 {
+  position: absolute;
+  top: 275px;
+  left: 276px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 34px;
+  text-decoration: none;
+}
+.clinical-symptoms2 {
+  left: 592px;
+  width: 230px;
+  height: 35px;
+}
+
+.frame-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 231px;
+  height: 236px;
+  object-fit: cover;
+}
+.online-mendelian-inheritance2 {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.online-mendelian-inheritance-container2,
+.organization-for-rare-container2 {
+  text-decoration: none;
+  position: absolute;
+  top: 17px;
+  left: 10px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 208px;
+  height: 30px;
+}
+.organization-for-rare-container2 {
+  top: 68px;
+  width: 183px;
+}
+.indian-policy-for-container2,
+.indian-society-of-container2 {
+  text-decoration: none;
+  position: absolute;
+  top: 186px;
+  left: 12px;
+  font-weight: 600;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 219px;
+}
+.indian-society-of-container2 {
+  top: 124px;
+  left: 10px;
+  height: 41px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 782px;
+  left: 10px;
+  width: 231px;
+  height: 255px;
+  font-size: var(--font-inherit);
+  color: var(--color-lavender-200);
+  font-family: var(--font-inherit);
+}
+.hemo-b-child2,
+.resources-inner {
+  position: absolute;
+  top: 906px;
+  left: 865px;
+  width: 275px;
+  height: 81px;
+}
+.resources-inner {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  top: -17px;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 104px;
+}
+.mutations2 {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 22.04px;
+}
+.resources5 {
+  position: absolute;
+  top: 930px;
+  left: 865px;
+  width: 324px;
+  height: 118px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame-child16,
+.frame-child17 {
+  text-decoration: none;
+  position: absolute;
+  top: -81px;
+  left: -37px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 595px;
+  height: 48px;
+}
+.frame-child17 {
+  top: -24px;
+}
+.rectangle-parent6,
+.vector-icon42 {
+  position: absolute;
+  top: 995px;
+  left: 293px;
+  width: 347px;
+  height: 47px;
+}
+.vector-icon42 {
+  height: 74.26%;
+  width: 74.26%;
+  top: 19.12%;
+  right: 19.12%;
+  bottom: 6.62%;
+  left: 6.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon43 {
+  height: 36.76%;
+  width: 36.76%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 56.62%;
+  left: 56.62%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link14,
+.vector-icon43,
+.vector-icon44 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon44 {
+  height: 57.6%;
+  width: 57.6%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 35.78%;
+  left: 35.78%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.hemo-b-child3 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 1028px;
+  left: 865px;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 48px;
+}
+.external-link16,
+.external-link17,
+.external-link18,
+.external-link19 {
+  text-decoration: none;
+  position: absolute;
+  top: 283px;
+  left: 506px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.external-link17,
+.external-link18,
+.external-link19 {
+  left: 805px;
+}
+.external-link18,
+.external-link19 {
+  top: 284px;
+  left: 1145px;
+}
+.external-link19 {
+  top: 631px;
+  left: 1149px;
+}
+.tata-institute-for2 {
+  position: absolute;
+  top: 1120px;
+  left: 436px;
+  font-size: var(--font-size-base);
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+  text-decoration: none;
+}
+.samruddhi-walaskar2 {
+  color: var(--color-darkblue);
+}
+.designed-by-samruddhi-container2 {
+  top: 1117px;
+  left: -30px;
+  font-size: var(--font-size-base);
+  text-align: center;
+  width: 367px;
+}
+.designed-by-samruddhi-container2,
+.hemophilia-b2,
+.supervised-by-dr-container2 {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+  display: inline-block;
+}
+.supervised-by-dr-container2 {
+  top: 1117px;
+  left: 851px;
+  font-size: var(--font-size-base);
+  text-align: center;
+  width: 392px;
+}
+.hemophilia-b2 {
+  top: 14px;
+  left: 260px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  width: 370px;
+}
+.measuring-blood-clotting {
+  position: absolute;
+  top: 316px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 255px;
+}
+.external-link20,
+.gentigs2 {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link20 {
+  top: 29px;
+  left: 494px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.replacement-therapy-of {
+  position: absolute;
+  top: 319px;
+  left: 889px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 304px;
+  height: 221px;
+}
+.hemo-b-child4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 386px;
+  left: 16px;
+  border-radius: var(--br-lgi);
+  width: 216px;
+  height: 43px;
+}
+.beta-thalassemia2 {
+  text-decoration: none;
+  position: absolute;
+  top: 305px;
+  left: 59px;
+  font-weight: 600;
+  color: inherit;
+}
+.alpha-thalassemia3,
+.hemophilia-a2,
+.hemophilia-b3,
+.sickle-cell-anemia3 {
+  text-decoration: none;
+  position: absolute;
+  top: 443px;
+  left: 55px;
+  font-weight: 600;
+  color: inherit;
+}
+.alpha-thalassemia3,
+.hemophilia-a2,
+.hemophilia-b3 {
+  top: 489px;
+  left: 50px;
+}
+.hemophilia-a2,
+.hemophilia-b3 {
+  top: 397px;
+  left: 74px;
+}
+.hemophilia-a2 {
+  top: 351px;
+}
+.dashboard-icon8 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blood-disorder2 {
+  position: relative;
+  font-weight: 600;
+}
+.dashboard8,
+.dashboard9 {
+  text-decoration: none;
+  position: absolute;
+  top: 244px;
+  left: 24px;
+  width: 136px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.dashboard9 {
+  top: 540px;
+  left: 33px;
+  width: 152px;
+}
+.musclemovement-neurodegener2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 165px;
+  flex-shrink: 0;
+}
+.dashboard10,
+.dashboard11 {
+  text-decoration: none;
+  position: absolute;
+  left: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.dashboard10 {
+  top: 588px;
+  height: 63px;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.dashboard11 {
+  top: 675px;
+  width: 197px;
+  height: 21px;
+  align-items: center;
+}
+.body-removebg-preview-icon2 {
+  position: absolute;
+  top: 302px;
+  left: 624px;
+  width: 186px;
+  height: 490px;
+  object-fit: cover;
+}
+.hemo-b-child5,
+.hemo-b-child6,
+.hemo-b-child7,
+.hemo-b-child5-textbox,
+.hemo-b-child6-textbox,
+.hemo-b-child7-textbox{
+  position: absolute;
+  top: 641px;
+  left: 685px;
+  width: 13px;
+  height: 13px;
+}
+.hemo-b-child6,
+.hemo-b-child7,
+.hemo-b-child6-textbox {
+  top: 508px;
+  left: 639px;
+}
+.hemo-b-child7,
+.hemo-b-child7-textbox {
+  top: 558px;
+  left: 712px;
+}
+.hemo-b-child10,
+.hemo-b-child8,
+.hemo-b-child9,
+.hemo-b-child10-textbox,
+.hemo-b-child8-textbox,
+.hemo-b-child9-textbox {
+  position: absolute;
+  top: 346px;
+  left: 709px;
+  width: 13px;
+  height: 13px;
+}
+.hemo-b-child10,
+.hemo-b-child9,
+.hemo-b-child9-textbox {
+  top: 364px;
+}
+.hemo-b-child10,
+.hemo-b-child10-textbox{
+  top: 324px;
+}
+.httpspubmedncbinlmnihgo1 {
+  text-decoration: none;
+  position: absolute;
+  top: 841px;
+  left: 879px;
+  font-size: var(--font-size-xs);
+  color: var(--color-mediumslateblue-200);
+  display: inline-block;
+  width: 326px;
+  height: 20px;
+}
+.hemo-b {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-12 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  width: 216px;
+  height: 93px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.external-link3,
+.external-link4,
+.tata-institute-for {
+  position: absolute;
+  text-decoration: none;
+}
+.external-link4 {
+  top: 284px;
+  left: 1145px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.tata-institute-for {
+  top: 1116px;
+  left: 443px;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+}
+.samruddhi-walaskar {
+  color: var(--color-darkblue);
+}
+.dashboard-development-container {
+  text-decoration: none;
+  position: absolute;
+  top: 1088px;
+  left: 14px;
+  display: inline-block;
+  width: 462px;
+  height: 24px;
+  color: inherit;
+}
+.concept-lead-container {
+  top: 1111px;
+  left: 14px;
+  width: 392px;
+  height: 24px;
+}
+.alpha-thalassemia,
+.concept-lead-container,
+.data-compilation-rgd-container {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+  display: inline-block;
+}
+.data-compilation-rgd-container {
+  top: 1064px;
+  left: 14px;
+  width: 392px;
+  height: 24px;
+}
+
+.current-therapeutics,
+.inheritance-pattern,
+.science-of-diagnosis {
+  position: absolute;
+  top: 589px;
+  left: 914px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics,
+.inheritance-pattern {
+  top: 588px;
+  left: 283px;
+}
+.current-therapeutics {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.rectangle-main {
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.alpha-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 400px;
+  left: 100px;
+  border-radius: var(--br-lgi);
+  width: 202px;
+  height: 43px;
+}
+.autosomal-recessive {
+  position: absolute;
+  top: 630px;
+  left: 280px;
+  display: inline-block;
+  width: 200px;
+  height: 43px;
+  border-radius: var(--br-lgi);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inherit);
+  font-weight: 400;
+}
+.image-container{
+  visibility: hidden;
+  display:flex;
+  flex-direction: row-reverse;
+  position:absolute;
+  right: 20%;
+  top: 25%;
+  z-index: 99;
+  border-radius: var(--br-lgi);
+  height: 490px;
+}
+.surabhisrivastavatigsresin {
+  margin: auto;
+  color: var(--color-darkblue);
+}
+.for-queries-container {
+  text-decoration: none;
+  position: absolute;
+  top: 1080px;
+  left: 988px;
+  display: inline-block;
+  width: 462px;
+  height: 24px;
+  color: inherit;
+}
+
+.for-queries-container,
+.recent-research,
+.rr-child {
+  text-decoration: none;
+  position: absolute;
+}
+.rr-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 289px;
+  height: 45px;
+}
+.recent-research {
+  top: 7px;
+  left: 45px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.rr {
+  position: absolute;
+  top: 917px;
+  left: 254px;
+  width: 455.52px;
+  height: 45px;
+  font-size: var(--font-size-3xl);
+}
+.management-child,
+.management1 {
+  text-decoration: none;
+  position: absolute;
+}
+.management-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 296px;
+  height: 45px;
+}
+.management1 {
+  top: 5px;
+  left: 65px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.gentigs-child,
+.management {
+  position: absolute;
+  height: 45px;
+}
+.management {
+  top: 917px;
+  left: 559px;
+  width: 475.52px;
+  font-size: var(--font-size-3xl);
+}
+.gentigs-child {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+}
+.gentigs1 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 106px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 148px;
+  height: 32px;
+}
+.gentigs {
+  position: absolute;
+  top: 914px;
+  left: 868px;
+  width: 324px;
+  height: 45px;
+  font-size: var(--font-size-13xl);
+}
+.hemo-a-child3{
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+
+.rectangle-parent4 {
+  position: absolute;
+  top: 794px;
+  left: 865px;
+  width: 286px;
+  height: 146px;
+  font-size: var(--font-size-xl);
+}
+.frame-child14{
+border: 0;
+background-color: var(--color-lavender-100);
+position: absolute;
+top: 915;
+left: 559;
+border-radius: var(--br-lgi);
+width: 324px;
+height: 106px;
+}
+.resources4{
+  text-decoration: none;
+  position: absolute;
+  display: inline-block;
+  top: 14px;
+  left: 14px;
+  font-weight: 600;
+  color: inherit;
+  width: 119px;
+}

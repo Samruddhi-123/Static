@@ -1,0 +1,753 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.external-links {
+  position: absolute;
+  top: 914px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkblue);
+  text-align: center;
+  display: inline-block;
+  width: 219px;
+  text-decoration: none;
+}
+.hemo-a-child {
+  position: absolute;
+  top: 0;
+  left: 264px;
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 17px 8px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1176px;
+  height: 60px;
+}
+.vector-icon,
+.vector-icon1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon {
+  position: absolute;
+  height: 70.83%;
+  width: 70.83%;
+  top: 20.83%;
+  right: 20.83%;
+  bottom: 8.33%;
+  left: 8.33%;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 33.33%;
+  width: 33.33%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 58.33%;
+  left: 58.33%;
+}
+.external-link,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 54.17%;
+  width: 54.17%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 37.5%;
+  left: 37.5%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link {
+  text-decoration: none;
+  top: 22px;
+  left: 548px;
+  width: 24px;
+  height: 24px;
+}
+.hemo-a-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkblue);
+  box-shadow: 4px 7px 4px rgba(0, 0, 0, 0.12);
+  width: 270px;
+  height: 221px;
+}
+.div,
+.prevalence-india {
+  position: relative;
+  font-weight: 600;
+}
+.prevalence-india {
+  display: inline-block;
+  width: 190px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.div {
+  font-size: var(--font-size-13xl);
+}
+.prevalence-india-parent {
+  position: absolute;
+  width: 255px;
+  top: 84px;
+  right: 890px;
+  left: 295px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 32px var(--padding-22xl) var(--padding-8xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 37px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.prevalence-global {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.prevalence-global-parent {
+  position: absolute;
+  width: 255px;
+  top: 87px;
+  right: 610px;
+  left: 575px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-24xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.cytogenetic-location,
+.genes {
+  font-weight: 600;
+  display: inline-block;
+  width: 233px;
+}
+.genes {
+  position: absolute;
+  top: 16px;
+  left: 84px;
+  height: 30px;
+}
+.cytogenetic-location {
+  position: relative;
+  height: 31px;
+  flex-shrink: 0;
+}
+.cytogenetic-location-parent {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: -295px;
+  left: 295px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 var(--padding-22xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.f8,
+.genes-parent {
+  position: absolute;
+  top: 89px;
+}
+.f8 {
+  left: 109px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.genes-parent {
+  width: 255px;
+  right: 327px;
+  left: 858px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.hemo-a-inner {
+  position: absolute;
+  top: 303px;
+  left: 300px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 1100px;
+  height: 495px;
+}
+.existing-therapy,
+.science-of-diagnosis {
+  position: absolute;
+  top: 560px;
+  left: 1113px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 352px;
+}
+.existing-therapy {
+  top: 303px;
+}
+.rectangle-main {
+  position: absolute;
+  top: 816px;
+  left: 308px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 744px;
+  height: 113px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 60px;
+  left: 25px;
+  width: 216px;
+  height: 93px;
+  object-fit: cover;
+}
+.beta-thalassemia,
+.hemophilia-a {
+  text-decoration: none;
+  position: absolute;
+  top: 322px;
+  left: 69px;
+  font-weight: 600;
+  color: inherit;
+}
+.hemophilia-a {
+  top: 11px;
+  left: 310px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 370px;
+}
+.sickle-cell-anemia {
+  top: 460px;
+  left: 65px;
+  font-weight: 600;
+}
+.alpha-thalassemia,
+.hemophilia-b,
+.sickle-cell-anemia {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+}
+.alpha-thalassemia {
+  top: 506px;
+  left: 60px;
+  font-weight: 600;
+}
+.hemophilia-b {
+  top: 414px;
+  left: 84px;
+}
+.age-of-onset,
+.hemophilia-b {
+  font-weight: 600;
+}
+.age-of-onset-container {
+  position: absolute;
+  top: 843px;
+  left: 321px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 691px;
+}
+.clinical-symptoms,
+.current-diagnostics {
+  position: absolute;
+  top: 303px;
+  left: 321px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.clinical-symptoms {
+  left: 763px;
+}
+.approx-cost-of,
+.measuring-blood-clotting,
+.rs-3360 {
+  position: absolute;
+  left: 321px;
+  font-size: var(--font-size-xl);
+}
+.measuring-blood-clotting {
+  top: 358px;
+  color: inherit;
+  display: inline-block;
+  width: 355px;
+  text-decoration: none;
+}
+.approx-cost-of,
+.rs-3360 {
+  top: 627px;
+}
+.approx-cost-of {
+  top: 585px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 352px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-mediumslateblue);
+  position: absolute;
+  top: 356px;
+  left: -2px;
+  width: 270px;
+  height: 43px;
+}
+.hemophilia-a1 {
+  position: absolute;
+  top: 368px;
+  left: 84px;
+  font-weight: 600;
+}
+.dashboard-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blood-disorder {
+  position: relative;
+  font-weight: 600;
+}
+.dashboard {
+  text-decoration: none;
+  position: absolute;
+  top: 261px;
+  left: 34px;
+  width: 136px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-deepskyblue);
+}
+.blood-test-which {
+  position: absolute;
+  top: 668px;
+  left: 322px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 388px;
+}
+.dashboard1 {
+  text-decoration: none;
+  position: absolute;
+  top: 557px;
+  left: 43px;
+  width: 152px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-deepskyblue);
+}
+.musclemovement-neurodegener {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 165px;
+  flex-shrink: 0;
+}
+.dashboard2,
+.dashboard3 {
+  text-decoration: none;
+  position: absolute;
+  left: 43px;
+  width: 197px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-deepskyblue);
+}
+.dashboard2 {
+  top: 605px;
+  height: 63px;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.dashboard3 {
+  top: 692px;
+  height: 21px;
+  align-items: center;
+}
+.resources-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 87px;
+}
+.resources1 {
+  position: absolute;
+  top: 22px;
+  left: 23px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+}
+.resources {
+  position: absolute;
+  top: 816px;
+  left: 1076px;
+  width: 324px;
+  height: 87px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.body-removebg-preview-icon {
+  position: absolute;
+  top: 320px;
+  left: 779px;
+  width: 186px;
+  height: 490px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.hemo-a-child1,
+.ellipse-icon-textbox,
+.hemo-a-child1-textbox{
+  position: absolute;
+  top: 698px;
+  left: 852px;
+  width: 13px;
+  height: 13px;
+}
+.ellipse-icon-textbox{
+  position: absolute;
+  top: 698px;
+  left: 852px;
+  width: 13px;
+  height: 13px;
+}
+.hemo-a-child1,
+.hemo-a-child1-textbox {
+  top: 480px;
+  left: 850px;
+}
+.hemo-a-child2,
+.hemo-a-child3,
+.hemo-a-child4,
+.hemo-a-child2-textbox
+
+{
+  position: absolute;
+  top: 452px;
+  left: 878px;
+  width: 13px;
+  height: 13px;
+}
+.hemo-a-child3,
+.hemo-a-child4,
+.hemo-a-child3-textbox,
+.hemo-a-child4-textbox
+ {
+  top: 378px;
+  left: 863px;
+}
+.hemo-a-child4,
+.hemo-a-child4-textbox {
+  top: 367px;
+  left: 885px;
+}
+.hemo-a-child3-textbox
+{
+  position: absolute;
+  top: 400px;
+  left: 863px;
+  width: 13px;
+  height: 13px;
+}
+.hemo-a-child4-textbox{
+  position: absolute;
+  top: 400px;
+  left: 885px;
+  width: 13px;
+  height: 13px;
+}
+
+.indian-policy-for {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 219px;
+}
+.dashboard4 {
+  text-decoration: none;
+  position: absolute;
+  top: 830px;
+  left: 23px;
+  width: 219px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-deepskyblue);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 744px;
+  height: 48px;
+}
+.external-link1,
+.recent-research {
+  text-decoration: none;
+  position: absolute;
+}
+.recent-research {
+  top: 9px;
+  left: 20px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 404px;
+}
+.external-link1 {
+  top: 11px;
+  left: 231px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 943px;
+  left: 300px;
+  width: 744px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.resources-item {
+  border: 0;
+  background-color: var(--color-lavender);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 75px;
+}
+.mutations {
+  position: absolute;
+  top: 7.23px;
+  left: 17px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 19.91px;
+}
+.resources-wrapper,
+.resources2 {
+  position: absolute;
+  width: 324px;
+  height: 75px;
+}
+.resources2 {
+  top: 0;
+  left: 0;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.resources-wrapper {
+  top: 916px;
+  left: 1076px;
+}
+.external-link2,
+.group-item {
+  text-decoration: none;
+  position: absolute;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 744px;
+  height: 48px;
+}
+.external-link2 {
+  top: 15px;
+  left: 198px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-group {
+  position: absolute;
+  top: 1003px;
+  left: 300px;
+  width: 744px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.resources-inner,
+.resources3 {
+  position: absolute;
+  left: 0;
+  width: 335px;
+  height: 36px;
+}
+.resources-inner {
+  border: 0;
+  background-color: var(--color-lavender);
+  top: 0;
+  border-radius: var(--br-lgi);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+}
+.resources3 {
+  top: 3px;
+}
+.gentigs {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 96px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 370px;
+}
+.resources-parent {
+  position: absolute;
+  top: 1006px;
+  left: 1076px;
+  width: 466px;
+  height: 48px;
+  font-size: var(--font-size-13xl);
+}
+.rec-17-child {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 216px;
+  height: 102px;
+  object-fit: cover;
+}
+.omim {
+  text-decoration: none;
+  top: 17px;
+  left: 0;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+}
+.omim,
+.ordi,
+.rec-17 {
+  position: absolute;
+  width: 219px;
+}
+.ordi {
+  text-decoration: none;
+  top: 55px;
+  left: 0;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+}
+.rec-17 {
+  top: 949px;
+  left: 23px;
+  height: 102px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-deepskyblue);
+}
+.hemo-a {
+  position: relative;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1058px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

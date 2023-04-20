@@ -1,0 +1,832 @@
+.dmd-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 516px;
+  left: 5px;
+  border-radius: var(--br-lgi);
+  width: 239px;
+  height: 41px;
+}
+.aditional-links11 {
+  position: absolute;
+  top: 740px;
+  left: 14px;
+  font-weight: 600;
+  color: var(--color-darkblue);
+  text-align: center;
+  display: inline-block;
+  width: 187px;
+  height: 29px;
+  text-decoration: none;
+}
+.dmd-inner,
+.dmd-item {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-lgi);
+}
+.dmd-item {
+  left: 225px;
+  background-color: var(--color-whitesmoke-100);
+  width: 969px;
+  height: 58px;
+}
+.dmd-inner {
+  left: 0;
+  width: 230px;
+  height: 214px;
+  object-fit: cover;
+}
+.frame-child98 {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 28px;
+  left: -4px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.prevalence-global11 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 269px;
+  height: 30px;
+}
+.in13 {
+  margin: 0;
+}
+.in-1000008 {
+  position: absolute;
+  top: 54px;
+  left: 44px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  text-align: center;
+}
+.frame-parent41 {
+  position: absolute;
+  top: 72px;
+  left: 499px;
+  width: 245px;
+  height: 172px;
+}
+.frame-child99 {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 24px;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.in-1400 {
+  position: absolute;
+  top: 54px;
+  left: 22px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 178px;
+  text-decoration: none;
+}
+.frame-parent42 {
+  position: absolute;
+  top: 72px;
+  left: 255px;
+  width: 245px;
+  height: 172px;
+}
+.frame-child100 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 37px;
+  left: -11px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.cytogenetic-location11,
+.xp212-p211 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.cytogenetic-location11 {
+  top: 17px;
+  left: -8px;
+  width: 282px;
+  height: 31px;
+}
+.xp212-p211 {
+  top: 86px;
+  left: -23px;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+  width: 245px;
+}
+.frame-parent43 {
+  position: absolute;
+  top: 72px;
+  left: 978px;
+  width: 247px;
+  height: 172px;
+}
+.frame-child101 {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 20px;
+  left: 6px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.dmd1,
+.genes11 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 600;
+}
+.genes11 {
+  top: 18px;
+  left: 77px;
+  width: 233px;
+  height: 30px;
+}
+.dmd1 {
+  top: 89px;
+  left: 16px;
+  font-size: var(--font-size-13xl);
+  font-style: italic;
+  color: inherit;
+  text-align: center;
+  width: 192px;
+  text-decoration: none;
+}
+.dmd-child1,
+.frame-parent44 {
+  position: absolute;
+  top: 72px;
+  left: 723px;
+  width: 247px;
+  height: 172px;
+}
+.dmd-child1 {
+  top: 261px;
+  left: 254px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 935px;
+  height: 520px;
+}
+.current-therapeutics11,
+.science-of-diagnosis11 {
+  position: absolute;
+  top: 589px;
+  left: 914px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics11 {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.dmd-child2 {
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.image-111 {
+  text-decoration: none;
+  position: absolute;
+  top: 62px;
+  left: 20px;
+  width: 184px;
+  height: 90px;
+  background-image: url(./public/image-11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.age-of-onset12 {
+  font-weight: 600;
+}
+.between-3-and-5-years {
+  font-size: var(--font-size-base);
+}
+.age-of-onset-container7 {
+  position: absolute;
+  top: 818px;
+  left: 279px;
+  display: inline-block;
+  width: 572px;
+  height: 63px;
+}
+.clinical-symptoms11,
+.current-diagnostics11 {
+  position: absolute;
+  top: 275px;
+  left: 276px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 34px;
+  text-decoration: none;
+}
+.clinical-symptoms11 {
+  left: 592px;
+  width: 230px;
+  height: 35px;
+}
+.dashboard-icon52 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blood-disorder15 {
+  position: relative;
+  font-weight: 600;
+}
+.dashboard52 {
+  text-decoration: none;
+  position: absolute;
+  top: 253px;
+  left: 29px;
+  width: 171px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-darkblue);
+}
+.storage-disorder15 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 152px;
+  flex-shrink: 0;
+}
+.dashboard53 {
+  text-decoration: none;
+  position: absolute;
+  top: 313px;
+  left: 29px;
+  width: 129px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-darkblue);
+}
+.musclemovement-neurodegener13 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 165px;
+  flex-shrink: 0;
+}
+.dashboard54 {
+  text-decoration: none;
+  position: absolute;
+  top: 375px;
+  left: 29px;
+  width: 167px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-darkblue);
+}
+.frame-child102 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 106px;
+}
+.httpswwwmdaorgdiseasedu,
+.resources26 {
+  text-decoration: none;
+  position: absolute;
+  left: 14px;
+  display: inline-block;
+}
+.resources26 {
+  top: 14px;
+  font-weight: 600;
+  color: inherit;
+  width: 119px;
+}
+.httpswwwmdaorgdiseasedu {
+  top: 42px;
+  font-size: var(--font-size-xs);
+  color: var(--color-mediumslateblue-100);
+  width: 293px;
+}
+.dashboard55,
+.rectangle-parent34 {
+  position: absolute;
+  top: 794px;
+  left: 865px;
+  width: 286px;
+  height: 146px;
+}
+.dashboard55 {
+  text-decoration: none;
+  top: 659px;
+  left: 31px;
+  width: 167px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-darkblue);
+}
+.body-removebg-preview-icon10 {
+  position: absolute;
+  top: 298px;
+  left: 621px;
+  width: 184px;
+  height: 484px;
+  object-fit: cover;
+}
+.dmd-child3 {
+  position: absolute;
+  top: 906px;
+  left: 865px;
+  width: 275px;
+  height: 81px;
+}
+.resources-child14 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: -17px;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 104px;
+}
+.mutations11 {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 22.04px;
+}
+.resources27 {
+  position: absolute;
+  top: 930px;
+  left: 865px;
+  width: 324px;
+  height: 118px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame-child103,
+.frame-child104 {
+  text-decoration: none;
+  position: absolute;
+  top: -81px;
+  left: -37px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 595px;
+  height: 48px;
+}
+.frame-child104 {
+  top: -24px;
+}
+.rectangle-parent35 {
+  position: absolute;
+  top: 995px;
+  left: 293px;
+  width: 347px;
+  height: 47px;
+}
+.vector-icon223,
+.vector-icon224,
+.vector-icon225 {
+  position: absolute;
+  height: 74.26%;
+  width: 74.26%;
+  top: 19.12%;
+  right: 19.12%;
+  bottom: 6.62%;
+  left: 6.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon224,
+.vector-icon225 {
+  height: 36.76%;
+  width: 36.76%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 56.62%;
+  left: 56.62%;
+}
+.vector-icon225 {
+  height: 57.6%;
+  width: 57.6%;
+  bottom: 35.78%;
+  left: 35.78%;
+}
+.external-link74 {
+  text-decoration: none;
+  position: absolute;
+  top: 986px;
+  left: 445px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.management13 {
+  top: 978px;
+  left: 279px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.external-link75,
+.management13,
+.recent-research11 {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link75 {
+  top: 933px;
+  left: 479px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.recent-research11 {
+  top: 921px;
+  left: 282px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.dmd-child4 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 1028px;
+  left: 865px;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 48px;
+}
+.external-link76,
+.external-link77,
+.external-link78,
+.external-link79 {
+  text-decoration: none;
+  position: absolute;
+  top: 283px;
+  left: 506px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.external-link77,
+.external-link78,
+.external-link79 {
+  left: 805px;
+}
+.external-link78,
+.external-link79 {
+  top: 284px;
+  left: 1145px;
+}
+.external-link79 {
+  top: 597px;
+  left: 1149px;
+}
+.tata-institute-for12 {
+  position: absolute;
+  top: 1120px;
+  left: 436px;
+  font-size: var(--font-size-base);
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+  text-decoration: none;
+}
+.samruddhi-walaskar12 {
+  color: var(--color-darkblue);
+}
+.designed-by-samruddhi-container12 {
+  text-decoration: none;
+  top: 1117px;
+  left: -30px;
+  text-align: center;
+  width: 367px;
+  color: inherit;
+}
+.designed-by-samruddhi-container12,
+.duchenne-muscular-dystrophy1,
+.supervised-by-dr-container12 {
+  position: absolute;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.supervised-by-dr-container12 {
+  text-decoration: none;
+  top: 1117px;
+  left: 851px;
+  text-align: center;
+  width: 392px;
+  color: inherit;
+}
+.duchenne-muscular-dystrophy1 {
+  top: 317px;
+  left: 274px;
+  width: 299px;
+}
+.external-link80,
+.gentigs11 {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link80 {
+  top: 24px;
+  left: 795px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.gentigs11 {
+  top: -6px;
+  left: 213px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 148px;
+  height: 32px;
+}
+.gentigs-wrapper4 {
+  position: absolute;
+  top: 1037px;
+  left: 755px;
+  width: 385px;
+  height: 65px;
+  font-size: var(--font-size-13xl);
+}
+.duchenne-muscular-dystrophy2,
+.eteplirsen-deflazacort-vyond {
+  position: absolute;
+  top: 323px;
+  left: 905px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 252px;
+}
+.duchenne-muscular-dystrophy2 {
+  text-decoration: none;
+  top: 12px;
+  left: 265px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: inherit;
+  width: 570px;
+}
+.spinal-muscular-ataxia2 {
+  text-decoration: none;
+  top: 479px;
+  left: 29px;
+  color: inherit;
+}
+.duchenne-muscular-dystrophy3,
+.friedreichs-ataxia1,
+.spinal-muscular-ataxia2 {
+  position: absolute;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+.duchenne-muscular-dystrophy3 {
+  text-decoration: none;
+  top: 525px;
+  left: 13px;
+  color: inherit;
+}
+.friedreichs-ataxia1 {
+  text-decoration: none;
+  top: 569px;
+  left: 58px;
+  color: inherit;
+}
+.dmd-child5,
+.tigs1 {
+  position: absolute;
+  top: 584px;
+  left: 744px;
+  width: 13px;
+  height: 13px;
+}
+.dmd-child5-textbox{
+  position: absolute;
+  top: 584px;
+  left: 744px;
+  width: 13px;
+  height: 13px;
+}
+.tigs1 {
+  text-decoration: none;
+  top: 10px;
+  left: 996px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 198px;
+  height: 39px;
+}
+.dmd-child6,
+.vectorstock-33678224-removebg-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 1087px;
+  width: 58px;
+  height: 59px;
+  object-fit: cover;
+}
+.dmd-child6 {
+  top: 782px;
+  left: 10px;
+  border-radius: var(--br-lgi);
+  width: 231px;
+  height: 236px;
+}
+.online-mendelian-inheritance11 {
+  margin: 0;
+  padding-left: var(--padding-smi);
+}
+.online-mendelian-inheritance-container11 {
+  top: 799px;
+  left: 20px;
+  color: var(--color-lavender-200);
+  width: 208px;
+  height: 30px;
+}
+.indian-policy-for-container12,
+.indian-society-of-container12,
+.online-mendelian-inheritance-container11,
+.organization-for-rare-container11 {
+  text-decoration: none;
+  position: absolute;
+  font-size: var(--font-inherit);
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  display: inline-block;
+}
+.organization-for-rare-container11 {
+  top: 850px;
+  left: 20px;
+  color: var(--color-lavender-200);
+  width: 183px;
+  height: 30px;
+}
+.indian-policy-for-container12,
+.indian-society-of-container12 {
+  top: 968px;
+  left: 22px;
+  color: var(--color-whitesmoke-200);
+  width: 219px;
+}
+.indian-society-of-container12 {
+  top: 906px;
+  left: 20px;
+  height: 41px;
+}
+.dmd {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-111 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  width: 216px;
+  height: 93px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-child87 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 231px;
+  height: 236px;
+  object-fit: cover;
+}
+.online-mendelian-inheritance9 {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.online-mendelian-inheritance-container9,
+.organization-for-rare-container9 {
+  text-decoration: none;
+  position: absolute;
+  top: 17px;
+  left: 10px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 208px;
+  height: 30px;
+}
+.organization-for-rare-container9 {
+  top: 68px;
+  width: 183px;
+}
+.indian-policy-for-container10,
+.indian-society-of-container10 {
+  text-decoration: none;
+  position: absolute;
+  top: 186px;
+  left: 12px;
+  font-weight: 600;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 219px;
+}
+.indian-society-of-container10 {
+  top: 124px;
+  left: 10px;
+  height: 41px;
+}
+.rectangle-parent29 {
+  position: absolute;
+  top: 782px;
+  left: 10px;
+  width: 231px;
+  height: 255px;
+  font-size: var(--font-inherit);
+  color: var(--color-lavender-200);
+  font-family: var(--font-inherit);
+}

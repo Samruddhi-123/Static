@@ -1,0 +1,1013 @@
+.gd-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 349px;
+  left: 6px;
+  border-radius: var(--br-lgi);
+  width: 214px;
+  height: 41px;
+}
+.aditional-links {
+  position: absolute;
+  top: 740px;
+  left: 14px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkblue);
+  text-align: center;
+  display: inline-block;
+  width: 187px;
+  height: 29px;
+  text-decoration: none;
+}
+.gd-inner,
+.gd-item {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-lgi);
+}
+.gd-item {
+  left: 225px;
+  background-color: var(--color-whitesmoke-100);
+  width: 969px;
+  height: 58px;
+}
+.gd-inner {
+  left: 0;
+  width: 230px;
+  height: 214px;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 28px;
+  left: -4px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.prevalence-global {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 269px;
+  height: 30px;
+}
+.in {
+  margin: 0;
+}
+.in-40000 {
+  position: absolute;
+  top: 69px;
+  left: 17px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 178px;
+  text-decoration: none;
+}
+.frame-parent {
+  position: absolute;
+  top: 72px;
+  left: 499px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-item {
+  width: calc(100% - 24px);
+  top: 0;
+  right: 24px;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.a,
+.frame-group,
+.frame-item {
+  position: absolute;
+}
+.a {
+  top: 86px;
+  left: 17px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 178px;
+  text-decoration: none;
+}
+.frame-group {
+  top: 72px;
+  left: 255px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-inner {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 37px;
+  left: -11px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.cytogenetic-location,
+.q22 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.cytogenetic-location {
+  top: 17px;
+  left: -8px;
+  width: 282px;
+  height: 31px;
+}
+.q22 {
+  top: 86px;
+  left: 67px;
+  font-size: 26px;
+  width: 245px;
+}
+.frame-container {
+  position: absolute;
+  top: 72px;
+  left: 978px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-main {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 20px;
+  left: 6px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.genes {
+  top: 18px;
+  left: 77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+}
+.frame-div,
+.gba,
+.genes {
+  position: absolute;
+}
+.gba {
+  top: 89px;
+  left: 87px;
+  font-size: var(--font-size-13xl);
+  font-style: italic;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.frame-div {
+  top: 72px;
+  left: 723px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.rectangle-main {
+  position: absolute;
+  top: 261px;
+  left: 254px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 935px;
+  height: 520px;
+}
+.current-therapeutics,
+.science-of-diagnosis {
+  position: absolute;
+  top: 589px;
+  left: 914px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.gd-child1 {
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 62px;
+  left: 20px;
+  width: 184px;
+  height: 90px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.age-of-onset {
+  font-weight: 600;
+}
+.early-adolescence {
+  font-size: var(--font-size-base);
+}
+.age-of-onset-container {
+  position: absolute;
+  top: 818px;
+  left: 279px;
+  display: inline-block;
+  width: 588px;
+  height: 29px;
+  font-size: var(--font-size-xl);
+}
+.clinical-symptoms,
+.current-diagnostics {
+  position: absolute;
+  top: 275px;
+  left: 276px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 34px;
+  text-decoration: none;
+}
+.clinical-symptoms {
+  left: 592px;
+  width: 230px;
+  height: 35px;
+}
+.dashboard-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blood-disorder {
+  position: relative;
+  font-weight: 600;
+}
+.dashboard {
+  text-decoration: none;
+  position: absolute;
+  top: 253px;
+  left: 29px;
+  width: 171px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.storage-disorder {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 152px;
+  flex-shrink: 0;
+}
+.dashboard1 {
+  text-decoration: none;
+  position: absolute;
+  top: 313px;
+  left: 29px;
+  width: 129px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.musclemovement-neurodegener {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 165px;
+  flex-shrink: 0;
+}
+.dashboard2 {
+  text-decoration: none;
+  position: absolute;
+  top: 562px;
+  left: 29px;
+  width: 167px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.rectangle-textarea {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 106px;
+}
+.resources {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 119px;
+  text-decoration: none;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 794px;
+  left: 865px;
+  width: 286px;
+  height: 146px;
+  font-size: var(--font-size-xl);
+}
+.dashboard3 {
+  text-decoration: none;
+  position: absolute;
+  top: 659px;
+  left: 31px;
+  width: 167px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 231px;
+  height: 236px;
+  object-fit: cover;
+}
+.online-mendelian-inheritance {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.online-mendelian-inheritance-container,
+.organization-for-rare-container {
+  text-decoration: none;
+  position: absolute;
+  top: 17px;
+  left: 10px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 208px;
+  height: 30px;
+}
+.organization-for-rare-container {
+  top: 68px;
+  width: 183px;
+}
+.indian-policy-for-container,
+.indian-society-of-container {
+  text-decoration: none;
+  position: absolute;
+  top: 186px;
+  left: 12px;
+  font-weight: 600;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 219px;
+}
+.indian-society-of-container {
+  top: 124px;
+  left: 10px;
+  height: 41px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 782px;
+  left: 10px;
+  width: 231px;
+  height: 255px;
+  font-size: var(--font-inherit);
+  color: var(--color-lavender-200);
+  font-family: var(--font-inherit);
+}
+.body-removebg-preview-icon {
+  position: absolute;
+  top: 298px;
+  left: 621px;
+  width: 184px;
+  height: 484px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.gd-child2,
+.gd-child3,
+.ellipse-icon-textbox,
+.gd-child2-textbox,
+.gd-child3-textbox
+{
+  position: absolute;
+  top: 637px;
+  left: 726px;
+  width: 13px;
+  height: 13px;
+}
+.gd-child2,
+.gd-child3,
+.gd-child2-textbox
+ {
+  top: 742px;
+  left: 680px;
+}
+.gd-child3,
+.gd-child3-textbox {
+  top: 353px;
+  left: 705px;
+}
+.frame-article,
+.resources-child {
+  position: absolute;
+  top: 906px;
+  left: 865px;
+  width: 275px;
+  height: 81px;
+}
+.resources-child {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  top: -17px;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 104px;
+}
+.mutations {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 22.04px;
+}
+.resources1 {
+  position: absolute;
+  top: 930px;
+  left: 865px;
+  width: 324px;
+  height: 118px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame-child1,
+.rectangle-a {
+  text-decoration: none;
+  position: absolute;
+  top: -81px;
+  left: -37px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 595px;
+  height: 48px;
+}
+.frame-child1 {
+  top: -24px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 995px;
+  left: 293px;
+  width: 347px;
+  height: 47px;
+}
+.vector-icon,
+.vector-icon1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon {
+  position: absolute;
+  height: 74.26%;
+  width: 74.26%;
+  top: 19.12%;
+  right: 19.12%;
+  bottom: 6.62%;
+  left: 6.62%;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 36.76%;
+  width: 36.76%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 56.62%;
+  left: 56.62%;
+}
+.external-link,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 57.6%;
+  width: 57.6%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 35.78%;
+  left: 35.78%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link {
+  text-decoration: none;
+  top: 986px;
+  left: 445px;
+  width: 17px;
+  height: 17px;
+}
+
+.gd-child4 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 1028px;
+  left: 865px;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 48px;
+}
+.external-link2 {
+  text-decoration: none;
+  position: absolute;
+  top: 283px;
+  left: 506px;
+}
+.external-link2,
+.external-link3,
+.external-link4 {
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.external-link3 {
+  text-decoration: none;
+  position: absolute;
+  top: 283px;
+  left: 805px;
+}
+.external-link4 {
+  top: 284px;
+  left: 1145px;
+}
+.external-link4,
+.external-link5,
+.tata-institute-for {
+  position: absolute;
+  text-decoration: none;
+}
+.external-link5 {
+  top: 597px;
+  left: 1149px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.tata-institute-for {
+  top: 1120px;
+  left: 436px;
+  font-size: var(--font-size-base);
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+}
+.samruddhi-walaskar {
+  color: var(--color-darkblue);
+}
+.designed-by-samruddhi-container {
+  top: 1117px;
+  left: -30px;
+  font-size: var(--font-size-base);
+  text-align: center;
+  width: 367px;
+}
+.designed-by-samruddhi-container,
+.gauchers-disease,
+.supervised-by-dr-container {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+  display: inline-block;
+}
+.supervised-by-dr-container {
+  top: 1117px;
+  left: 851px;
+  font-size: var(--font-size-base);
+  text-align: center;
+  width: 392px;
+}
+.gauchers-disease {
+  top: 14px;
+  left: 260px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  width: 370px;
+}
+.fabry,
+.gauchers-disease1,
+.mps-i,
+.mpsii,
+.pompe {
+  text-decoration: none;
+  position: absolute;
+  top: 360px;
+  left: 48px;
+  font-weight: 600;
+  color: inherit;
+}
+.fabry,
+.mps-i,
+.mpsii,
+.pompe {
+  top: 400px;
+  left: 84px;
+}
+.mps-i,
+.mpsii,
+.pompe {
+  top: 436px;
+  left: 78px;
+}
+.mps-i,
+.mpsii {
+  top: 479px;
+  left: 86px;
+}
+.mpsii {
+  top: 515px;
+  left: 85px;
+}
+.clinical-history-physical {
+  position: absolute;
+  top: 316px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 255px;
+}
+.external-link6,
+.gentigs {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link6 {
+  top: 29px;
+  left: 567px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+
+.tigs {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+  width: 198px;
+  height: 39px;
+}
+.vectorstock-33678224-removebg-icon {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.tigs-parent {
+  position: absolute;
+  top: 7px;
+  left: 1002px;
+  width: 198px;
+  height: 55px;
+  font-size: var(--font-size-13xl);
+}
+.gd {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  width: 216px;
+  height: 93px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.external-link3,
+.external-link4,
+.tata-institute-for {
+  position: absolute;
+  text-decoration: none;
+}
+.external-link4 {
+  top: 284px;
+  left: 1145px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.tata-institute-for {
+  top: 1116px;
+  left: 443px;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+}
+.samruddhi-walaskar {
+  color: var(--color-darkblue);
+}
+.dashboard-development-container {
+  text-decoration: none;
+  position: absolute;
+  top: 1088px;
+  left: 14px;
+  display: inline-block;
+  width: 462px;
+  height: 24px;
+  color: inherit;
+}
+.concept-lead-container {
+  top: 1111px;
+  left: 14px;
+  width: 392px;
+  height: 24px;
+}
+.alpha-thalassemia,
+.concept-lead-container,
+.data-compilation-rgd-container {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+  display: inline-block;
+}
+.data-compilation-rgd-container {
+  top: 1064px;
+  left: 14px;
+  width: 392px;
+  height: 24px;
+}
+.current-therapeutics,
+.inheritance-pattern,
+.science-of-diagnosis {
+  position: absolute;
+  top: 589px;
+  left: 914px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics,
+.inheritance-pattern {
+  top: 588px;
+  left: 283px;
+}
+.current-therapeutics {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.alpha-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 400px;
+  left: 100px;
+  border-radius: var(--br-lgi);
+  width: 202px;
+  height: 43px;
+}
+.autosomal-recessive {
+  position: absolute;
+  top: 630px;
+  left: 280px;
+  display: inline-block;
+  width: 200px;
+  height: 43px;
+  border-radius: var(--br-lgi);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inherit);
+  font-weight: 400;
+}
+.image-container{
+  visibility: hidden;
+  display:flex;
+  flex-direction: row-reverse;
+  position:absolute;
+  right: 25%;
+  top: 25%;
+  z-index: 99;
+  border-radius: var(--br-lgi);
+  height: 490px;
+}
+.surabhisrivastavatigsresin {
+  margin: auto;
+  color: var(--color-darkblue);
+}
+.for-queries-container {
+  text-decoration: none;
+  position: absolute;
+  top: 1080px;
+  left: 988px;
+  display: inline-block;
+  width: 462px;
+  height: 24px;
+  color: inherit;
+}
+
+.for-queries-container,
+.recent-research,
+.rr-child {
+  text-decoration: none;
+  position: absolute;
+}
+.rr-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 289px;
+  height: 45px;
+}
+.recent-research {
+  top: 7px;
+  left: 45px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.rr {
+  position: absolute;
+  top: 917px;
+  left: 254px;
+  width: 455.52px;
+  height: 45px;
+  font-size: var(--font-size-3xl);
+}
+.management-child,
+.management1 {
+  text-decoration: none;
+  position: absolute;
+}
+.management-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 296px;
+  height: 45px;
+}
+.management1 {
+  top: 5px;
+  left: 65px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.gentigs-child,
+.management {
+  position: absolute;
+  height: 45px;
+}
+.management {
+  top: 917px;
+  left: 559px;
+  width: 475.52px;
+  font-size: var(--font-size-3xl);
+}
+.gentigs-child {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+}
+.gentigs1 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 106px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 148px;
+  height: 32px;
+}
+.gentigs {
+  position: absolute;
+  top: 914px;
+  left: 868px;
+  width: 324px;
+  height: 45px;
+  font-size: var(--font-size-13xl);
+}
+.hemo-a-child3{
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.methods {
+  position: absolute;
+  top: 673px;
+  left: 980px;
+  text-align: center;
+  display: inline-block;
+  width: 75px;
+  height: 29px;
+}
+.hemo-a-child1 {
+  position: absolute;
+  top: 665px;
+  left: 948px;
+  display: inline-block;
+  width: 150px;
+  height: 43px;
+  border-radius: var(--br-lgi);
+  font-size: var(--font-size-base);
+  font-family: var(--font-inherit);
+  font-weight: 400;
+}

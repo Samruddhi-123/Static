@@ -1,0 +1,772 @@
+.fa-child {
+  left: 225px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-whitesmoke-100);
+  width: 969px;
+  height: 58px;
+}
+.fa-child,
+.fa-item,
+.frame-child {
+  position: absolute;
+  top: 0;
+}
+.fa-item {
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 230px;
+  height: 214px;
+  object-fit: cover;
+}
+.frame-child {
+  width: calc(100% - 24px);
+  right: 28px;
+  left: -4px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.prevalence-global {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 269px;
+  height: 30px;
+}
+.in {
+  margin: 0;
+}
+.in-100000 {
+  position: absolute;
+  top: 54px;
+  left: 49px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  text-align: center;
+}
+.frame-parent {
+  position: absolute;
+  top: 72px;
+  left: 499px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-item {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 0;
+  right: 24px;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.in-1000001 {
+  position: absolute;
+  top: 54px;
+  left: 22px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 178px;
+  text-decoration: none;
+}
+.frame-group {
+  position: absolute;
+  top: 72px;
+  left: 255px;
+  width: 245px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-inner {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 37px;
+  left: -11px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.cytogenetic-location,
+.xp212-p211 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.cytogenetic-location {
+  top: 17px;
+  left: -8px;
+  width: 282px;
+  height: 31px;
+}
+.xp212-p211 {
+  top: 76px;
+  left: -23px;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+  width: 245px;
+}
+.frame-container {
+  position: absolute;
+  top: 72px;
+  left: 978px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.frame-main {
+  position: absolute;
+  width: calc(100% - 26px);
+  top: 0;
+  right: 20px;
+  left: 6px;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-200);
+  height: 178px;
+}
+.genes {
+  top: 18px;
+  left: 77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+}
+.frame-div,
+.fxn,
+.genes {
+  position: absolute;
+}
+.fxn {
+  top: 89px;
+  left: 16px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-style: italic;
+  font-weight: 600;
+  color: inherit;
+  text-align: center;
+  width: 192px;
+  text-decoration: none;
+}
+.frame-div {
+  top: 72px;
+  left: 723px;
+  width: 247px;
+  height: 172px;
+  font-size: var(--font-size-xl);
+}
+.fa-inner {
+  position: absolute;
+  top: 261px;
+  left: 254px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 935px;
+  height: 520px;
+}
+.current-therapeutics,
+.science-of-diagnosis {
+  position: absolute;
+  top: 589px;
+  left: 914px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 35px;
+}
+.current-therapeutics {
+  top: 276px;
+  left: 900px;
+  color: inherit;
+  text-decoration: none;
+}
+.rectangle-main {
+  position: absolute;
+  top: 794px;
+  left: 255px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 596px;
+  height: 109px;
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 62px;
+  left: 20px;
+  width: 184px;
+  height: 90px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.age-of-onset {
+  font-weight: 600;
+}
+.between-3-and-5-years {
+  font-size: var(--font-size-base);
+}
+.age-of-onset-container {
+  position: absolute;
+  top: 818px;
+  left: 279px;
+  display: inline-block;
+  width: 572px;
+  height: 63px;
+  font-size: var(--font-size-xl);
+}
+.clinical-symptoms,
+.current-diagnostics {
+  position: absolute;
+  top: 275px;
+  left: 276px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 34px;
+  text-decoration: none;
+}
+.clinical-symptoms {
+  left: 592px;
+  width: 230px;
+  height: 35px;
+}
+.rectangle-textarea {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 106px;
+}
+.resources {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 119px;
+  text-decoration: none;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 794px;
+  left: 865px;
+  width: 286px;
+  height: 146px;
+  font-size: var(--font-size-xl);
+}
+.body-removebg-preview-icon {
+  position: absolute;
+  top: 298px;
+  left: 621px;
+  width: 184px;
+  height: 484px;
+  object-fit: cover;
+}
+.frame-article,
+.resources-child {
+  position: absolute;
+  top: 906px;
+  left: 865px;
+  width: 275px;
+  height: 81px;
+}
+.resources-child {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  top: -17px;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 104px;
+}
+.mutations {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 22.04px;
+}
+.resources1 {
+  position: absolute;
+  top: 930px;
+  left: 865px;
+  width: 324px;
+  height: 118px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame-child1,
+.rectangle-a {
+  text-decoration: none;
+  position: absolute;
+  top: -81px;
+  left: -37px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-lavender-100);
+  width: 595px;
+  height: 48px;
+}
+.frame-child1 {
+  top: -24px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 995px;
+  left: 293px;
+  width: 347px;
+  height: 47px;
+}
+.vector-icon,
+.vector-icon1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon {
+  position: absolute;
+  height: 74.26%;
+  width: 74.26%;
+  top: 19.12%;
+  right: 19.12%;
+  bottom: 6.62%;
+  left: 6.62%;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 36.76%;
+  width: 36.76%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 56.62%;
+  left: 56.62%;
+}
+.external-link,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 57.6%;
+  width: 57.6%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 35.78%;
+  left: 35.78%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link {
+  text-decoration: none;
+  top: 986px;
+  left: 445px;
+  width: 17px;
+  height: 17px;
+}
+.management {
+  top: 978px;
+  left: 279px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.external-link1,
+.management,
+.recent-research {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link1 {
+  top: 933px;
+  left: 479px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.recent-research {
+  top: 921px;
+  left: 282px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 410.52px;
+}
+.fa-child1 {
+  border: 0;
+  background-color: var(--color-lavender-100);
+  position: absolute;
+  top: 1028px;
+  left: 865px;
+  border-radius: var(--br-lgi);
+  width: 324px;
+  height: 48px;
+}
+.vector-icon8 {
+  height: 57.6%;
+  width: 57.6%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 35.79%;
+  left: 35.78%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link2,
+.vector-icon11,
+.vector-icon8 {
+  position: absolute;
+  overflow: hidden;
+}
+.external-link2 {
+  text-decoration: none;
+  top: 283px;
+  left: 506px;
+  width: 17px;
+  height: 17px;
+}
+.vector-icon11 {
+  height: 57.6%;
+  width: 57.6%;
+  top: 6.62%;
+  right: 6.62%;
+  bottom: 35.79%;
+  left: 35.79%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.external-link3,
+.external-link4 {
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.external-link3 {
+  text-decoration: none;
+  position: absolute;
+  top: 283px;
+  left: 805px;
+}
+.external-link4 {
+  top: 284px;
+  left: 1145px;
+}
+.external-link4,
+.external-link5,
+.tata-institute-for {
+  position: absolute;
+  text-decoration: none;
+}
+.external-link5 {
+  top: 597px;
+  left: 1149px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.tata-institute-for {
+  top: 1120px;
+  left: 436px;
+  font-size: var(--font-size-base);
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 415px;
+}
+.samruddhi-walaskar {
+  color: var(--color-darkblue);
+}
+.designed-by-samruddhi-container {
+  text-decoration: none;
+  top: 1117px;
+  left: -30px;
+  text-align: center;
+  width: 367px;
+  color: inherit;
+}
+.designed-by-samruddhi-container,
+.pcr-and-sequencing,
+.supervised-by-dr-container {
+  position: absolute;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.supervised-by-dr-container {
+  text-decoration: none;
+  top: 1117px;
+  left: 851px;
+  text-align: center;
+  width: 392px;
+  color: inherit;
+}
+.pcr-and-sequencing {
+  top: 322px;
+  left: 276px;
+  width: 299px;
+}
+.external-link6,
+.gentigs {
+  text-decoration: none;
+  position: absolute;
+}
+.external-link6 {
+  top: 29px;
+  left: 583px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.gentigs {
+  top: -6px;
+  left: 213px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 148px;
+  height: 32px;
+}
+.gentigs-wrapper {
+  position: absolute;
+  top: 1037px;
+  left: 755px;
+  width: 385px;
+  height: 65px;
+  font-size: var(--font-size-13xl);
+}
+.friedreichs-ataxia,
+.vitamin-d-and {
+  position: absolute;
+  top: 328px;
+  left: 892px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 297px;
+}
+.friedreichs-ataxia {
+  text-decoration: none;
+  top: 12px;
+  left: 265px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: inherit;
+  width: 370px;
+}
+.fa-child2,
+.fa-child2-textbox {
+  position: absolute;
+  top: 438px;
+  left: 713px;
+  width: 13px;
+  height: 13px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 550px;
+  left: 13px;
+  border-radius: var(--br-lgi);
+  width: 214px;
+  height: 41px;
+}
+.dashboard-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blood-disorder {
+  position: relative;
+  font-weight: 600;
+}
+.dashboard {
+  text-decoration: none;
+  position: absolute;
+  top: 244px;
+  left: 26px;
+  width: 171px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.storage-disorder {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 152px;
+  flex-shrink: 0;
+}
+.dashboard1 {
+  text-decoration: none;
+  position: absolute;
+  top: 304px;
+  left: 26px;
+  width: 129px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.musclemovement-neurodegener {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 165px;
+  flex-shrink: 0;
+}
+.dashboard2,
+.dashboard3 {
+  text-decoration: none;
+  position: absolute;
+  width: 167px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--color-darkblue);
+}
+.dashboard2 {
+  top: 366px;
+  left: 26px;
+  height: 61px;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.dashboard3 {
+  top: 650px;
+  left: 28px;
+  height: 21px;
+  align-items: center;
+}
+.duchenne-muscular-dystrophy,
+.spinal-muscular-ataxia {
+  text-decoration: none;
+  position: absolute;
+  top: 470px;
+  left: 26px;
+  font-weight: 600;
+  color: inherit;
+}
+.duchenne-muscular-dystrophy {
+  top: 520px;
+  left: 15px;
+}
+.friedreichs-ataxia1 {
+  position: absolute;
+  top: 560px;
+  left: 55px;
+  font-weight: 600;
+}
+.fa {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  width: 216px;
+  height: 93px;
+  background-image: url(./public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 231px;
+  height: 236px;
+  object-fit: cover;
+}
+.online-mendelian-inheritance {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.online-mendelian-inheritance-container,
+.organization-for-rare-container {
+  text-decoration: none;
+  position: absolute;
+  top: 17px;
+  left: 10px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 208px;
+  height: 30px;
+}
+.organization-for-rare-container {
+  top: 68px;
+  width: 183px;
+}
+.indian-policy-for-container,
+.indian-society-of-container {
+  text-decoration: none;
+  position: absolute;
+  top: 186px;
+  left: 12px;
+  font-weight: 600;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 219px;
+}
+.indian-society-of-container {
+  top: 124px;
+  left: 10px;
+  height: 41px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 782px;
+  left: 10px;
+  width: 231px;
+  height: 255px;
+  font-size: var(--font-inherit);
+  color: var(--color-lavender-200);
+  font-family: var(--font-inherit);
+}
+
